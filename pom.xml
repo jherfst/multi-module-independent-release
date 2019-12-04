@@ -43,7 +43,7 @@
           <releaseGoals>
             <releaseGoal>deploy</releaseGoal>
           </releaseGoals>
-          <arguments>-DnoChangesAction=ReleaseNone</arguments>
+          <noChangesAction>ReleaseNone</noChangesAction>
         </configuration>
       </plugin>
     </plugins>
