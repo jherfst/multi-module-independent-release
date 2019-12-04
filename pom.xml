@@ -10,9 +10,6 @@
     <module>app</module>
     <module>lib</module>
   </modules>
-  <properties>
-    <revision>1.0-SNAPSHOT</revision>
-  </properties>
   <distributionManagement>
     <repository>
       <uniqueVersion>false</uniqueVersion>
