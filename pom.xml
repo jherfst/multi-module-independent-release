@@ -13,6 +13,15 @@
   <properties>
     <revision>1.0-SNAPSHOT</revision>
   </properties>
+  <distributionManagement>
+    <repository>
+      <uniqueVersion>false</uniqueVersion>
+      <id>JoshCorp1</id>
+      <name>Josh Corporate Repository</name>
+      <url>file:///C:/Users/jozua/.m2</url>
+      <layout>default</layout>
+    </repository>
+  </distributionManagement>
   <build>
     <pluginManagement>
       <plugins>
