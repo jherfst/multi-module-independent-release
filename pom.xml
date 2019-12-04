@@ -28,7 +28,7 @@
         <groupId>com.github.danielflower.mavenplugins</groupId>
         <artifactId>multi-module-maven-release-plugin</artifactId>
         <configuration>
-            <serverId>josh-github-server></serverId>
+            <serverId>josh-github-server</serverId>
           <releaseGoals>
             <releaseGoal>deploy</releaseGoal>
           </releaseGoals>
